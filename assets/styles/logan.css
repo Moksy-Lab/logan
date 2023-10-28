@@ -112,16 +112,29 @@
      .pricesd968f923c99adba9 .btn-outline-secondary{
         background-color: white;
         border: 2px solid #4DBF1C;
-        color: black
+        color: black;
+        font-weight: 600
      }
+     .pricesd968f923c99adba9 .btn-outline-secondary:not(:disabled):not(.disabled):active{
+        color: #fff;
+        background-color: #4DBF1C;
+        border-color: #4DBF1C
+     }
+     
      .pricesd968f923c99adba9 .btn-secondary {
         background-color: #4DBF1C;
-        border: #4DBF1C
+        border: #4DBF1C;
+        font-weight: 600
+    }
+    .pricesd968f923c99adba9 .btn-secondary:not(:disabled):not(.disabled):active {
+        color: #fff;
+    background-color: #4DBF1C;
+    border-color: #4DBF1C
     }
     .pricesd968f923c99adba9 h1{
         font-size: 32px
     }
-    .pricesd968f923c99adba9 h2{
+    .pricesd968f923c99adba9 .h2{
         font-size: 20px
     }
     /* #purviss(pricesd968f923c99adba9) #css ends  */
