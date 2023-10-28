@@ -134,6 +134,9 @@
     .pricesd968f923c99adba9 h1{
         font-size: 32px
     }
+    .pricesd968f923c99adba9 h2{
+        font-size: 25px
+    }
     .pricesd968f923c99adba9 .h2{
         font-size: 20px
     }
@@ -148,14 +151,23 @@ background-color: #4DBF1C
 .bannerd12294b36d7b134b .button:hover {
 color: white
 }
+.bannerd12294b36d7b134b h2{
+    font-size: 32px
+}
 /* #basu(d12294b36d7b134b) #css ends  */
 /*****basu*****/
 
 /*****fisher*****/
 /* #fisher(fisherftt2okgfykr) #css starts  */
+.fisherftt2okgfykr {
+    padding: 0.5rem 0
+}
 .fisherftt2okgfykr .nav-link {
     color: #fff;
     font-weight: 600
+}
+.fisherftt2okgfykr .h5 {
+    font-size: 16px
 }
 .fisherftt2okgfykr .nav-link:hover {
     color: #4DBF1C
