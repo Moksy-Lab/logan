@@ -9,8 +9,11 @@
 
 /*****carthur*****/
     /* #carthur(calltoactionsccah4u1afnyj) #css starts  */
+    .calltoactionsccah4u1afnyj .fdb-block {
+        padding: 2rem 0
+    }
     .calltoactionsccah4u1afnyj .btn-primary {   
-    color: black;
+    color: #fff;
     background-color: #4DBF1C;
     border-color: #4DBF1C;
     font-weight: 600
@@ -18,7 +21,7 @@
      .btn-primary:hover,
      .btn-primary:not(:disabled):not(.disabled):active,
      .btn-primary:focus{
-        color: black;
+        color: #fff;
         background-color: #4DBF1C;
         border-color: #4DBF1C;
         font-weight: 600
@@ -26,15 +29,35 @@
     /* #carthur(calltoactionsccah4u1afnyj) #css ends  */
 /*****carthur*****/
 
+
+/*****fethany*****/
+/* #fethany(fethanyfezt9chya5y) #css starts */
+.fethanyfezt9chya5y{
+    padding: 3rem 0
+}
+.fethanyfezt9chya5y h3{
+    font-size: 20px
+}
+.fethanyfezt9chya5y .lead{
+    font-size: 18px
+}
+/* #fethany(fethanyfezt9chya5y) #css starts */
+/*****fethany*****/
+
+
 /*****faye*****/
 /* #faye(fayete8bna5e4lc) #css starts */
+.fayete8bna5e4lc .fdb-block{
+    padding: 4rem 0
+}
      .fayete8bna5e4lc  .fdb-block .fdb-touch {
       border-top: solid 0.3125rem #4DBF1C
      }
      .fayete8bna5e4lc a{
-        color: #4DBF1C;
+    color: #4DBF1C;
     font-weight: 700
      }
+     
 /* #faye(fayete8bna5e4lc) #css starts */
 /*****faye*****/
 
